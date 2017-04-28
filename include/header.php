@@ -1,5 +1,5 @@
 <header class="row">
-	<div class="col-md-8">
+	<div class="col-md-8" id="tire_slogan">
 		<h1>LESSIRE Florent</h1>
 		<p>dévellopper full-stack, maintenance et montage pc</p>
 	</div>
