@@ -19,7 +19,13 @@
 				  <li><a href="">montage pc</a></li>
 				</ul>
 			  </li>
-			<li><a href="">portfolio</a></li>
+			<li class="dropdown"> 
+				<a data-toggle="dropdown" href="#">portfolio<b class="caret"></b></a>
+				<ul class="dropdown-menu">
+				  <li><a href="">site web</a></li>
+				  <li><a href="">montage pc</a></li>
+				</ul>
+			  </li>
 			<li><a href="">Devis</a></li>
 			<li><a href="">Contact</a></li>
 		  </ul>
