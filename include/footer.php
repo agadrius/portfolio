@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="col-md-3">
 			<h3>Coordonnées</h3>
-			<p>Light-code</br>
+			<p></br>
 			Place Paul Dubois 198</br>
 			<em>5550</em> <strong>sugny</strong></br>
 			+32(0)478/26.07.52</br>
